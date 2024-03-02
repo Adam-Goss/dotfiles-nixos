@@ -127,6 +127,7 @@
     shellAliases = {
       ll = "ls -l";
       la = "ls -ali";
+      z = "zoxide";
     };
   };
 
